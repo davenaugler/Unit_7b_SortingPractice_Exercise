@@ -24,7 +24,7 @@ public class FarmerAlBaryardInventoryApplicationTwo {
 		// 3. Sort the pig names
 		// 4. Print the sorted names to the console
 
-//		 pig -> pigNames
+//		 Swap 'pig -> pigNames' - DOES NOT WORK
 //		Arrays.sort(pigs, new Comparator<Pig>() {
 //			@Override
 //			public int compare(Pig pig1, Pig pig2) {
